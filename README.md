@@ -1,4 +1,13 @@
-## Hi there 👋
+## Cloud systems and security engineer specializing in Microsoft Azure based solutions. 
+
+Utilizing generative AI to generate GitHub actions and Terraform code templates for the Azure Resource Manager REST API.
+Interest in Solidity code for EVM based blockchains, particularly low cost verification and payment systems for SaaS apps.
+
+* 🏆 **Microsoft Certified: Azure Administrator Associate**
+* 🌟 **Microsoft Certified: Azure Solutions Architect Expert** 
+* 🤖 **M365 and Copilot foundations certification** - In progress - Estimated completion October 2026
+* 🎯 **Microsoft Cloud and AI Security Engineer Associate** - To be completed in early 2027
+* 🛡️ **Microsoft Cybersecurity Architect Expert** - To be completed by mid 2027
 
 <!--
 **vfr750y/vfr750y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
