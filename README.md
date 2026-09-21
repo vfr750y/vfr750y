@@ -5,7 +5,7 @@ Interest in Solidity code for EVM based blockchains, particularly low cost verif
 
 * 🏆 **Microsoft Certified: Azure Administrator Associate**
 * 🌟 **Microsoft Certified: Azure Solutions Architect Expert** 
-* 🤖 **M365 and Copilot foundations certification** - In progress - Estimated completion October 2026
+* 🤖 **M365 and Copilot foundations certification**
 * 🎯 **Microsoft Cloud and AI Security Engineer Associate** - To be completed in early 2027
 * 🛡️ **Microsoft Cybersecurity Architect Expert** - To be completed by mid 2027
 
