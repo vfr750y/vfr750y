@@ -4,7 +4,7 @@ Utilizing generative AI to generate GitHub actions and Terraform code templates 
 Interest in Solidity code for EVM based blockchains, particularly low cost verification and payment systems for SaaS apps.  
 <div align="center">
   
-![MS Azure Expert](./Expert.png)
+![MS Azure Expert](./associate.png) ![MS Azure Expert](./Expert.png) ![MS Azure Expert](./exam.png)
 
 </div>
 
