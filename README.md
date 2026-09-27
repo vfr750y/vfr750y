@@ -5,10 +5,10 @@ Interest in cloud security, EVM based blockchains, low cost verification and pay
 <div align="left">
   
 ![MS Azure Expert](./associate.png) ![MS Azure Expert](./Expert.png) ![MS Azure Expert](./exam.png)  
- 🏆 **Microsoft Certified: Azure Administrator Associate**  
- 🌟 **Microsoft Certified: Azure Solutions Architect Expert**   
+ 🏆 **Microsoft Certified: Azure Administrator Associate**  AZ-104  
+ 🌟 **Microsoft Certified: Azure Solutions Architect Expert**  AZ-305  
  🤖 **M365 and Copilot foundations certification**  
- 🎯 **Microsoft Cloud and AI Security Engineer Associate** - In progress  
+ 🎯 **Microsoft Cloud and AI Security Engineer Associate** - SC 500 In progress  
  🛡️ **Microsoft Cybersecurity Architect Expert** - To be completed by mid 2027  
 
 </div>
