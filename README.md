@@ -2,7 +2,7 @@
 
 Utilizing generative AI to generate GitHub actions and Terraform code templates for the Azure Resource Manager REST API.
 Interest in Solidity code for EVM based blockchains, particularly low cost verification and payment systems for SaaS apps.  
-<div align="center">
+<div align="left">
   
 ![MS Azure Expert](./associate.png) ![MS Azure Expert](./Expert.png) ![MS Azure Expert](./exam.png)  
  🏆 **Microsoft Certified: Azure Administrator Associate**  
