@@ -4,12 +4,12 @@ Utilizing generative AI to generate GitHub actions and Terraform code templates 
 Interest in Solidity code for EVM based blockchains, particularly low cost verification and payment systems for SaaS apps.  
 <div align="center">
   
-![MS Azure Expert](./associate.png) ![MS Azure Expert](./Expert.png) ![MS Azure Expert](./exam.png)
- 🏆 **Microsoft Certified: Azure Administrator Associate**
- 🌟 **Microsoft Certified: Azure Solutions Architect Expert** 
- 🤖 **M365 and Copilot foundations certification**
- 🎯 **Microsoft Cloud and AI Security Engineer Associate** - To be completed in early 2027
- 🛡️ **Microsoft Cybersecurity Architect Expert** - To be completed by mid 2027
+![MS Azure Expert](./associate.png) ![MS Azure Expert](./Expert.png) ![MS Azure Expert](./exam.png)  
+ 🏆 **Microsoft Certified: Azure Administrator Associate**  
+ 🌟 **Microsoft Certified: Azure Solutions Architect Expert**   
+ 🤖 **M365 and Copilot foundations certification**  
+ 🎯 **Microsoft Cloud and AI Security Engineer Associate** - To be completed in early 2027  
+ 🛡️ **Microsoft Cybersecurity Architect Expert** - To be completed by mid 2027  
 
 </div>
 
