@@ -2,7 +2,6 @@
 
 Utilizing generative AI to generate GitHub actions and Terraform code templates for the Azure Resource Manager REST API.
 Interest in cloud security, EVM based blockchains, low cost verification and payment systems for SaaS apps.  
-<div align="left">
   
   ![MS Azure Expert](./associate.png) ![MS Azure Expert](./Expert.png) ![MS Azure Expert](./exam.png)  
  🏆 **Microsoft Certified: Azure Administrator Associate**  (AZ-104)  
@@ -10,8 +9,6 @@ Interest in cloud security, EVM based blockchains, low cost verification and pay
  🤖 **M365 and Copilot foundations certification**  (AB-900)  
  🎯 **Microsoft Cloud and AI Security Engineer Associate** - (SC 500) In progress  
  🛡️ **Microsoft Cybersecurity Architect Expert** - (SC 100) To be completed by mid 2027  
-
-</div>
 
 
 
