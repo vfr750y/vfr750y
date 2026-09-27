@@ -1,7 +1,7 @@
 ## Cloud systems and security engineer specializing in Microsoft Azure based solutions. 
 
 Utilizing generative AI to generate GitHub actions and Terraform code templates for the Azure Resource Manager REST API.
-Interest in cloud security, EVM based blockchains, low cost verification and payment systems for SaaS apps.  
+Interest in cloud security including AI, EVM based blockchains, low cost verification and payment systems for SaaS apps.  
   
 &emsp; ![MS Azure Expert](./associate.png) ![MS Azure Expert](./Expert.png) ![MS Azure Expert](./exam.png)  
  🏆 **Microsoft Certified: Azure Administrator Associate**  (AZ-104)  
