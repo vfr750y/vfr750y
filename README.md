@@ -5,14 +5,15 @@ Interest in Solidity code for EVM based blockchains, particularly low cost verif
 <div align="center">
   
 ![MS Azure Expert](./associate.png) ![MS Azure Expert](./Expert.png) ![MS Azure Expert](./exam.png)
-
-</div>
-
 * 🏆 **Microsoft Certified: Azure Administrator Associate**
 * 🌟 **Microsoft Certified: Azure Solutions Architect Expert** 
 * 🤖 **M365 and Copilot foundations certification**
 * 🎯 **Microsoft Cloud and AI Security Engineer Associate** - To be completed in early 2027
 * 🛡️ **Microsoft Cybersecurity Architect Expert** - To be completed by mid 2027
+
+</div>
+
+
 
 <!--
 **vfr750y/vfr750y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
