@@ -4,7 +4,7 @@ Utilizing generative AI to generate GitHub actions and Terraform code templates 
 Interest in cloud security, EVM based blockchains, low cost verification and payment systems for SaaS apps.  
 <div align="left">
   
-![MS Azure Expert](./associate.png) ![MS Azure Expert](./Expert.png) ![MS Azure Expert](./exam.png)  
+  ![MS Azure Expert](./associate.png) ![MS Azure Expert](./Expert.png) ![MS Azure Expert](./exam.png)  
  🏆 **Microsoft Certified: Azure Administrator Associate**  (AZ-104)  
  🌟 **Microsoft Certified: Azure Solutions Architect Expert**  (AZ-305)  
  🤖 **M365 and Copilot foundations certification**  (AB-900)  
