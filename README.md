@@ -5,11 +5,11 @@ Interest in Solidity code for EVM based blockchains, particularly low cost verif
 <div align="center">
   
 ![MS Azure Expert](./associate.png) ![MS Azure Expert](./Expert.png) ![MS Azure Expert](./exam.png)
-* 🏆 **Microsoft Certified: Azure Administrator Associate**
-* 🌟 **Microsoft Certified: Azure Solutions Architect Expert** 
-* 🤖 **M365 and Copilot foundations certification**
-* 🎯 **Microsoft Cloud and AI Security Engineer Associate** - To be completed in early 2027
-* 🛡️ **Microsoft Cybersecurity Architect Expert** - To be completed by mid 2027
+ 🏆 **Microsoft Certified: Azure Administrator Associate**
+ 🌟 **Microsoft Certified: Azure Solutions Architect Expert** 
+ 🤖 **M365 and Copilot foundations certification**
+ 🎯 **Microsoft Cloud and AI Security Engineer Associate** - To be completed in early 2027
+ 🛡️ **Microsoft Cybersecurity Architect Expert** - To be completed by mid 2027
 
 </div>
 
