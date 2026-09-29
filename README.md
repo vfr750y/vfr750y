@@ -1,4 +1,4 @@
-## Cloud systems and security engineer specializing in Microsoft Azure based solutions. 
+## Cloud systems and security engineer specializing in Microsoft Azure and M365. 
 
 Utilizing generative AI to generate GitHub actions and Terraform code templates for the Azure Resource Manager REST API.
 Interest in cloud security including AI, EVM based blockchains, low cost verification and payment systems for SaaS apps.  
